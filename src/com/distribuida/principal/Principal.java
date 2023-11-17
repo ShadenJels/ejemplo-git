@@ -9,6 +9,14 @@ public class Principal {
 		System.out.println("El DIABLO LOCO......");
 		System.out.println("El DIABLO LOCO......");
 		System.out.println("El DIABLO LOCO......");
+		
+		System.out.println("El DIABLO LOCO......");
+		System.out.println("El DIABLO LOCO......");
+		System.out.println("El DIABLO LOCO......");
+		
+		System.out.println("El DIABLO LOCO......");
+		System.out.println("El DIABLO LOCO......");
+		System.out.println("El DIABLO LOCO......");
 
 
 	}
